@@ -1,0 +1,5 @@
+D:\308\disk_C\0diakin2_0\balan\balann\reactos-master
+D:\308\disk_C\0diakin2_0\balan\balann\reactos-master\boot\freeldr\freeldr\ntldr\arch\i386
+D:\308\disk_C\0diakin2_0\balan\balann\reactos-master\boot
+D:\308\disk_C\0diakin2_0\balan\balann\reactos-master\
+D:\_F\bas\ReactOS
